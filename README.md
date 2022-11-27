@@ -16,9 +16,13 @@ brew install tree wget vim fig git htop imagemagick ffmpeg tmux
 brew install --cask iterm2 visual-studio-code
 ```
 
-## Install ZSH.
+## Install ZSH Plugins. 
+
 ```
-sudo apt install zsh-autosuggestions zsh-syntax-highlighting zsh
+sudo apt install zsh
+
+# Optional: you can use fig extensions also. (I think they're better btw)
+sudo apt install zshzsh-autosuggestions zsh-syntax-highlighting
 ```
 
 ## Install Oh my ZSH.
