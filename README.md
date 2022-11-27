@@ -1,4 +1,4 @@
-New Macbook Setup
+# New Macbook Setup
 
 ## Install XCode
 ```
