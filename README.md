@@ -22,7 +22,7 @@ brew install --cask iterm2 visual-studio-code
 sudo apt install zsh
 
 # Optional: you can use fig extensions also. (I think they're better btw)
-sudo apt install zshzsh-autosuggestions zsh-syntax-highlighting
+sudo apt install zsh-autosuggestions zsh-syntax-highlighting
 ```
 
 ## Install Oh my ZSH.
