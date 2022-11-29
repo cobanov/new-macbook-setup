@@ -31,7 +31,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 
 ## iTerm2 Settings
-> Preferences > Profiles > Keys > Presets > Natural Text Editing
+> Preferences > Profiles > Keys > Presets > Key Mapings > Natural Text Editing
 
 ## Install Python Dev Environment
 Install Anaconda
